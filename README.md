@@ -14,7 +14,7 @@ Captura de coordenadas de Fukushima
 Captura de Coordenadas de Mito
 
 # Script 2
-Para el segundo Script solo modifimacos la forma de filtrar. para esto he ingresado palabras como "olimpicos", "juegos", "medallas"...
+Para el segundo Script solo modificamos la forma de filtrar. para esto he ingresado palabras como "olimpicos", "juegos", "medallas"...
 ![Screenshot_68](https://user-images.githubusercontent.com/58042023/127720279-871ec382-e31c-4ead-bcd3-801e3e389a4f.png)
 
 # Script 3
