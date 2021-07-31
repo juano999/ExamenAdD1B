@@ -42,6 +42,9 @@ Resultado de almacenar en MongoDB:
 # Script 6
 
 # Script 7
+ Baicamente tomamos cada documento de couchDB y lo almacenamos en mongoDB
+ ![image](https://user-images.githubusercontent.com/58042023/127725350-8a820d78-debd-42dd-a9cc-c9a461d670eb.png)
+
 
 # Script 8
 
