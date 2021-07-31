@@ -21,13 +21,21 @@ Para el segundo Script solo modificamos la forma de filtrar. para esto he ingres
 Creamos una base de datos dentro de MongoDB conectandonos a localhost llamada "JegosOlimpicosMongo" y una coleccion dentro de la misma llamada "elcomercio", esto para almacenar posteriormente los datos que obtengamos
 ![Screenshot_69](https://user-images.githubusercontent.com/58042023/127721972-0a55f31d-32aa-4df7-a835-9e30f89f104b.png)
 
+El Script básicamente busca los patrones que le asignamos, en este caso un elemento con el tag "<p>", y limpia todo lo que no sea el texto.
+Luego, nos conectamos a nuestra base de datos "JuegosOlimpicosMongo" para asignar lo extraido a la colleccion llamada "elcomercio"
 Despues de ejecutar el codigo se guardaran todo lo que hemos extraido en formato json
 ![image](https://user-images.githubusercontent.com/58042023/127723339-e2708ed0-31c8-43cb-8b54-7841de881470.png)
 
 
-
-
 # Script 4
+Utilizamos la herramienta facebook-scraper para obtener publicaciones de una determinada pagina de Facebook, en este caso de "ELDEMENTEYT"
+laherramienta almacena los likes, comentarios, reacciones de estas publicaciones y las almançena para posterior mente asiganors a nuestra base de datos "JuegosOlimpicosMongo" para asignar lo extraido a la colleccion llamada "elcomercio".
+  Cuando ejecutamos el codigo se recibe mensajes de que una publicacion se guardo correctamente:
+  ![image](https://user-images.githubusercontent.com/58042023/127724105-6d51b9dc-7207-4c5f-9199-1b9dff89920f.png)
+ 
+Resultado de almacenar en MongoDB:
+ ![image](https://user-images.githubusercontent.com/58042023/127724061-c709906a-1094-4a04-8969-f27b4531a341.png)
+
 
 # Script 5
 
