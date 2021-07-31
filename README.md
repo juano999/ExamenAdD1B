@@ -18,6 +18,14 @@ Para el segundo Script solo modificamos la forma de filtrar. para esto he ingres
 ![Screenshot_68](https://user-images.githubusercontent.com/58042023/127720279-871ec382-e31c-4ead-bcd3-801e3e389a4f.png)
 
 # Script 3
+Creamos una base de datos dentro de MongoDB conectandonos a localhost llamada "JegosOlimpicosMongo" y una coleccion dentro de la misma llamada "elcomercio", esto para almacenar posteriormente los datos que obtengamos
+![Screenshot_69](https://user-images.githubusercontent.com/58042023/127721972-0a55f31d-32aa-4df7-a835-9e30f89f104b.png)
+
+Despues de ejecutar el codigo se guardaran todo lo que hemos extraido en formato json
+![image](https://user-images.githubusercontent.com/58042023/127723339-e2708ed0-31c8-43cb-8b54-7841de881470.png)
+
+
+
 
 # Script 4
 
