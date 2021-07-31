@@ -33,7 +33,7 @@ laherramienta almacena los likes, comentarios, reacciones de estas publicaciones
 Cuando ejecutamos el codigo se recibe mensajes de que una publicacion se guardo correctamente:  
 ![image](https://user-images.githubusercontent.com/58042023/127724105-6d51b9dc-7207-4c5f-9199-1b9dff89920f.png)
  
-Resultado de almacenar en MongoDB:
+Resultado de almacenar en MongoDB:  
  ![image](https://user-images.githubusercontent.com/58042023/127724061-c709906a-1094-4a04-8969-f27b4531a341.png)
 
 
